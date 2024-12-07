@@ -1,2 +1,20 @@
-# Binary-Calculator-LCD
-A simple binary calculator project using a microcontroller, keypad, and LCD. This project allows users to perform basic binary operations (addition, subtraction, increment, and decrement) and displays the results in binary format.
+# Binary Calculator with LCD Display
+
+## Overview
+This project is a binary calculator implemented on an embedded system. Users can input binary numbers using a keypad, perform operations such as addition, subtraction, increment, and decrement, and view the results on an LCD screen.
+
+## Features
+- Binary number input through a keypad.
+- Four operations: addition, subtraction, increment, decrement.
+- Results displayed in binary format on an LCD.
+
+## Components Used
+- Microcontroller
+- LCD Display
+- Keypad
+- C Programming Language
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Binary-Calculator-LCD.git
