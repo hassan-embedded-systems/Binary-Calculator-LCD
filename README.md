@@ -14,7 +14,4 @@ This project is a binary calculator implemented on an embedded system. Users can
 - Keypad
 - C Programming Language
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Binary-Calculator-LCD.git
+
